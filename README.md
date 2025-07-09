@@ -1,0 +1,1 @@
+Actually i have made this for funny thinking. A small project is about guessing any animal like quize , getting 3 times to guess . if anyone can provide answer every question then he will get 3 marks.
